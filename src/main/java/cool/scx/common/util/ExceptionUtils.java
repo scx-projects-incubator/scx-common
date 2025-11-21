@@ -1,7 +1,7 @@
 package cool.scx.common.util;
 
-import cool.scx.function.Function0;
-import cool.scx.function.Function0Void;
+import dev.scx.function.Function0;
+import dev.scx.function.Function0Void;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
